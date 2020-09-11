@@ -1,0 +1,15 @@
+{
+  "name": "slack-integration-app",
+  "description": "A simple Slack Integration App",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Your Name",
+      "email": "your@email.com"
+    }
+  ],
+  "require": {
+    "rmccue/requests": ">=1.0"
+  }
+}
